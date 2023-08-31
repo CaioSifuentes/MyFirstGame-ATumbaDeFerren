@@ -31,7 +31,7 @@ endtype										// .
 global enemyImage as enemyImageType[15]		// -
 
 DIM tribeHealth[5]		// Variavel para a vida de cada tribo (Atualmente só temos uma, ESQUELETOS).
-tribeHealth[0] = 5		// Vida do Esqueleto: 10
+tribeHealth[0] = 7		// Vida do Esqueleto: 7
 
 return
 
